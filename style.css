@@ -5,9 +5,8 @@
  .logo img{
      width: 100%;
  }
-.top-section{
+header{
     background-color:#f5f5c1;
-    padding: 2% 5%;
 }
 
 .orange-bg{
