@@ -24,4 +24,6 @@
     width: 30px;
     height: 30px;
 }
-  
+  .image{
+      background-color: lightgray;
+  }
